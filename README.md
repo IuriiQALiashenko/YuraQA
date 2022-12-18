@@ -1,4 +1,4 @@
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1cTggsghmrbbhzKu153E5LjqadczDU1gI/edit?usp=sharing&ouid=102507895120231563898&rtpof=true&sd=true)
+[Примеры моих тест кейсов](https://docs.google.com/spreadsheets/d/1cTggsghmrbbhzKu153E5LjqadczDU1gI/edit?usp=sharing&ouid=102507895120231563898&rtpof=true&sd=true)
 
 ---
 
