@@ -7,3 +7,7 @@
 ---
 
 [Примеры практических заданий](https://docs.google.com/spreadsheets/d/1JNbz8mhusNHMTDmXU-RE62j0KykP6rhHizH62Kg9BJQ/edit?usp=sharing)
+
+---
+
+[Баг репорт сайта Договор 24](https://docs.google.com/spreadsheets/d/14N5P-G1WTcOmawlU9NDuqv6Jto8na8iVVXfH7z0hjDg/edit?usp=sharing)
